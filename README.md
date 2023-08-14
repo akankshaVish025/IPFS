@@ -114,7 +114,7 @@ Contributions to the IPFS Project are welcome! If you find a bug, have an enhanc
 
 5. Open a pull request on GitHub.
 
-#### License
+### License
 
 This project is licensed under the MIT License. Feel free to modify and distribute the code as needed.
 
