@@ -91,12 +91,12 @@ Explore and interact with the IPFS Project:
 ## Uploading Files
 
 1. Use the "Upload File" feature on the frontend to upload a file.
-2. The uploaded file will be stored on IPFS, and its hash will be displayed using two buttons "Metadata Url" & "Image Url" to view uploaded metadata and its image respectively.
+2. The uploaded file will be stored on IPFS, and its hash will be displayed using two buttons "Open Metadata Url" & "Open Image Url" to view uploaded metadata and its image respectively.
 
 ## Accessing Content
 
-1. Click on the 'Metadata Url' button from the frontend to view the metadata content uploaded on the IPFS.
-2. Click on the 'Image Url' button from the frontend to view image file uploaded on the IPFS.
+1. Click on the 'Open Metadata Url' button from the frontend to view the metadata content uploaded on the IPFS.
+2. Click on the 'Open Image Url' button from the frontend to view image file uploaded on the IPFS.
 
 ## Contributing
 
