@@ -104,10 +104,10 @@ function App() {
             <h2>IPFS API Response</h2>
             <div className="url-buttons">
               <button onClick={() => window.open(apiResponse.metadataURL, '_blank')} className="url-button">
-                Open Metadata URL
+                Metadata URL
               </button>
               <button onClick={() => window.open(apiResponse.imageURL, '_blank')} className="url-button">
-                Open Image URL
+                Image URL
               </button>
             </div>
           </div>
