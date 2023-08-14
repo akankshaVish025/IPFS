@@ -1,6 +1,9 @@
 # IPFS Project: Node.js Backend and React.js Frontend
 
 Welcome to the IPFS Project repository! This project showcases a full-stack application with a Node.js backend and a React.js frontend, demonstrating the integration of IPFS (InterPlanetary File System) for decentralized file storage and sharing.
+
+IPFS - IPFS stands for InterPlanetary File System, revolutionizes storage by eliminating the need for centralized servers. It achieves all the functions of traditional central servers, but without depending on a single central entity. As a result, it remains robust against outages, censorship, and malicious attacks, all while establishing the groundwork for a truly decentralized internet.
+
 This project is all about uploading NFTs and its metadata directly to the IPFS (InterPlanetary File System) server and retrieve their CIDs to view the data stored on ipfs using dynamic and interacting frontend using React.js.
 
 ## Table of Contents
