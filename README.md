@@ -74,6 +74,8 @@ The project consists of two main components: the backend and the frontend. Follo
 
 ## Frontend
 
+Open another new terminal in another tab:
+
 1. Change to the frontend directory:
    - cd frontend
 
@@ -89,12 +91,12 @@ Explore and interact with the IPFS Project:
 ## Uploading Files
 
 1. Use the "Upload File" feature on the frontend to upload a file.
-2. The uploaded file will be stored on IPFS, and its hash will be displayed.
+2. The uploaded file will be stored on IPFS, and its hash will be displayed using two buttons "Metadata Url" & "Image Url" to view uploaded metadata and its image respectively.
 
 ## Accessing Content
 
-1. Copy the IPFS hash of a file from the frontend.
-2. Use an IPFS gateway (e.g., https://ipfs.io/ipfs/) to access the content by appending the hash to the URL.
+1. Click on the 'Metadata Url' button from the frontend to view the metadata content.
+2. Click on the 'Image Url' button from the frontend to view image file uploaded on IPFS.
 
 ## Contributing
 
