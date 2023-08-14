@@ -95,8 +95,8 @@ Explore and interact with the IPFS Project:
 
 ## Accessing Content
 
-1. Click on the 'Metadata Url' button from the frontend to view the metadata content.
-2. Click on the 'Image Url' button from the frontend to view image file uploaded on IPFS.
+1. Click on the 'Metadata Url' button from the frontend to view the metadata content uploaded on the IPFS.
+2. Click on the 'Image Url' button from the frontend to view image file uploaded on the IPFS.
 
 ## Contributing
 
